@@ -242,9 +242,20 @@ ship        # 完整流程（build + publish）
 
 ## 🙏 致谢
 
+本项目的实现参考和借鉴了以下优秀的开源项目：
+
+### 核心功能参考
+- **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** by 歸藏 - 去 AI 味人性化改写功能的灵感来源
+- **[baoyu-article-illustrator](https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-article-illustrator/SKILL.md)** by 宝玉 - 智能配图生成功能的核心思路
+- **[doocs/md](https://github.com/doocs/md)** - 微信公众号 Markdown 编辑器，CSS 样式设计参考
+
+### 技术支持
 - [Claude Code](https://claude.ai/code) - AI 编程助手
 - [Replicate](https://replicate.com) - AI 模型 API 平台
 - [微信公众平台](https://mp.weixin.qq.com) - 内容发布平台
+
+### 开源精神
+感谢开源社区的无私分享，让我们能够站在巨人的肩膀上创造更好的工具。本项目也将继续秉承开源精神，为社区贡献价值。
 
 ## 📞 支持
 
